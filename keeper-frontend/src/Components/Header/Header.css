@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    padding: 0.75rem;
+    background-color: black;
+    color: rgb(87, 171, 240);
+    justify-content: center;
+    font-family:sans-serif;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow: rgba(0, 0, 0, 0.5) 0 5px 10px;
+    z-index: 99;
+}
+
+.header h2 {
+    margin: 4px;
+}
